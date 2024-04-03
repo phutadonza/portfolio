@@ -16,8 +16,8 @@ import php from './assets/images/Skills/PhpMyAdmin.png'
 import ub from './assets/images/Skills/ubuntu.png'
 import az from './assets/images/Skills/azure.png'
 
-import project1 from './assets/images/projects/shorturl.png'
-import project2 from './assets/images/projects/web.png'
+import project1 from './assets/images/Projects/shorturl.png'
+import project2 from './assets/images/Projects/web.png'
 import person_project from './assets/images/Me/Me2.png'
 
 // import icons from react-icons
